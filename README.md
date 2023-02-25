@@ -16,3 +16,5 @@ Foram feitas consultas com SELECT Statement, SELECT Statement, ORDER BY, HAVING 
 - Procurarando Ordem de serviço, nome do cliente, telefone, veículo e valor
 - Procurando peças, valor da peça e serviços relacionados
 - Procurando descrição do serviço, valor de serviço, status de serviço, valor total de serviço, data de emissão e entrega
+
+### Autor: José Gabriel dos Santos Pádua
