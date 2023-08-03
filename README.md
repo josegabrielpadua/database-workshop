@@ -36,7 +36,7 @@ O banco de dados foi projetado com as seguintes tabelas:
 4. Criação de ordens de serviço para relacionar cliente, veículo e serviços prestados.
 5. Controle do status das ordens de serviço (em andamento, concluído, cancelado) e autorização do cliente (confirmado, cancelado, em andamento).
 
-Como utilizar o projeto
+### Como utilizar o projeto
 
 1. Crie um banco de dados no SGBD de sua escolha (exemplo: MySQL) e importe o arquivo contendo o código SQL disponibilizado neste projeto para criar todas as tabelas e relacionamentos.
 2. Execute as consultas SQL para inserir os dados iniciais nas tabelas, como clientes, veículos, mecânicos e serviços.
